@@ -13,6 +13,9 @@ the first implementation of Poopsploit with lua for PS5 12.00 and lower, this us
   you may get a brick or debug settings on fw 12.00 and lower
 
 
+How to use:
+- run Lua game after you import the exploitable save 
+- send PoC with the send_lua script
 
 
 
