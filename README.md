@@ -2,6 +2,7 @@
 
 the first implementation of Poopsploit with lua for PS5 12.00 and lower, this uses triple free of kernel socket objects as the vulnerability trigger.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 - It’s designed to be fully firmware-agnostic, (use on fw 12.00 and lower)
 - Heap spraying via IPv6 sockets and twin detection
@@ -12,14 +13,13 @@ the first implementation of Poopsploit with lua for PS5 12.00 and lower, this us
   This is 70% done, you need to fix all errors related to lua formating, add offsets and ROP gadgets..etc
   you may get a brick or debug settings on fw 12.00 and lower
 
-
+------------------------------------------------------------------------------------------------------------------------------
+   
 How to use:
 - run Lua game after you import the exploitable save 
 - send PoC with the send_lua script
 
 
-
-
-
+------------------------------------------------------------------------------------------------------------------------------
 
   !!! USE AT YOUR OWN RISK, THIS DOES NOT WORK !!!
