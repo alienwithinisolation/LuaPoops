@@ -1,4 +1,4 @@
-# Luapoopsploit v1.00
+# PS5 Luapoopsploit v1.00
 
 the first implementation of Poopsploit with lua for PS5 12.00 and lower, this uses triple free of kernel socket objects as the vulnerability trigger.
 
