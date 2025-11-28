@@ -10,6 +10,7 @@ the first implementation of Poopsploit with lua for PS5 12.00 and lower, this us
 - Full ROP chains (rop_pin_to_core, rop_set_rtprio)
 
   This is 70% done, you need to fix all errors related to lua formating, add offsets and ROP gadgets..etc
+  you may get a brick or debug settings on fw 12.00 and lower
 
 
 
@@ -18,5 +19,4 @@ the first implementation of Poopsploit with lua for PS5 12.00 and lower, this us
 
 
 
-
-  >>> USE AT YOUR OWN RISK, THIS DOES NOT WORK <<<
+  !!! USE AT YOUR OWN RISK, THIS DOES NOT WORK !!!
