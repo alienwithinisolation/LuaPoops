@@ -13,7 +13,7 @@ INCOMPLETE and EXPERIMENTAL implementation of Poopsploit with lua for PS5 12.00 
   This is 70% done, you need to fix all errors related to lua formating, add offsets and ROP gadgets..etc
   you may get a brick or debug settings on fw 12.00 and lower
 
-   **important **
+   **important**
  
 - not all of it is AI, and poopsploit does work with lua if you're familiar with lua language.
 - heap spray works, twin allocation + triple free triggering is real, the syscalls are real (although more could be used maybe?),
