@@ -30,5 +30,5 @@ How to use:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-  !!! USE AT YOUR OWN RISK, THIS DOES MAY OR MAY NOT WORK !!!
+  !!! USE AT YOUR OWN RISK, THIS MAY OR MAY NOT WORK !!!
   !!! successful run could kp the console, not achieve R/W !!!
