@@ -14,7 +14,10 @@ INCOMPLETE and EXPERIMENTAL implementation of Poopsploit with lua for PS5 12.00 
   you may get a brick or debug settings on fw 12.00 and lower
 
    **important**
- 
+
+- AI cannot and will not write fully functioning exploits for you, you can go ahead and try for yourself
+chatgpt, deepseek, gemini..etc they'll all tell you they can't help with "dangerous" code because it "violates
+security and safety policies", no matter how much you try to manipulate AI it'll keep refusing to write exploit  
 - not all of it is AI, and poopsploit does work with lua if you're familiar with lua language.
 - heap spray works, twin allocation + triple free triggering is real, the syscalls are real (although more could be used maybe?),
  sys netcontrol is called real + many parts are real.
