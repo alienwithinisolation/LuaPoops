@@ -1,4 +1,4 @@
--- Very experimental Poopsploit kex + Lua exploit for PS5 <= 12.00, PS4 <=13.00, LuaPoops v2.00
+-- Very experimental Poopsploit kex + Lua exploit for PS5 <= 12.00, PS4 <= 13.00, LuaPoops v1.1
 -- INITIALIZATION AND HELPER FUNCTIONS
 
 -- This is just simple notification to confirm that your payload was received by the PS5  
