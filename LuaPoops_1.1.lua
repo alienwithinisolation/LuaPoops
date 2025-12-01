@@ -954,4 +954,4 @@ log(21, "Allproc: 0x" .. string.format("%x", allproc))
 log(21, "PID " .. sys_getpid() .. " now has full kernel privileges")
 
 -- big thank you to annonymous guy for testing and riscking his ps5 --
--- this is still very experimental -- 
+-- this is still very experimental, any help is welcome -- 
